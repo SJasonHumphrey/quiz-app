@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-
+const API_KEY = 'U92EmujHP0csAJevHFiFjwXBejis4TSMfpXxj5BZ'
+.env
 # testing
 /coverage
 
